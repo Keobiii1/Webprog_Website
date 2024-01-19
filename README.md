@@ -8,7 +8,7 @@ Welcome to my portfolio repository! This zip file contains a snapshot of my life
 
 ## Getting Started
 
-1. Download and unzip the file.
+1. Download and unzip the file (if you want the whole file).
 2. Open `portfolio.html` in your preferred web browser.
 3. Navigate through the sections to learn more about my skills, projects, and experiences.
 
